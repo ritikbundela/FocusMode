@@ -14,9 +14,7 @@
 ## Installation
 
 1. **Clone or Download** this repository:
-    ```bash
-    git clone https://github.com/mklilley/no-youtube-recommendations.git
-    ```
+
 2. **Open Chrome** and go to `chrome://extensions/`.
 3. Enable **Developer mode** by clicking the toggle in the top-right corner.
 4. Click on **Load unpacked** and select the folder containing this repository.
