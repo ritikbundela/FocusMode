@@ -32,6 +32,3 @@
 2. A `background.js` script manages the state and updates the extension's icon and badge text.
 3. The `content.js` script includes a `MutationObserver` that keeps recommendations hidden even when navigating dynamically on YouTube.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
